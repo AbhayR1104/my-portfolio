@@ -8,18 +8,19 @@ const About = () => {
         
         <div className="bg-card rounded-2xl p-8 md:p-12 card-glow">
           <p className="text-lg text-muted-foreground leading-relaxed mb-6">
-            I'm a passionate technologist with expertise spanning <span className="text-primary font-semibold">Software Development</span> and <span className="text-accent font-semibold">Data Science</span>. 
-            My journey in tech has equipped me with a unique blend of skills that bridge the gap between engineering robust systems and extracting meaningful insights from data.
+            I'm a <span className="text-primary font-semibold">computer science enthusiast</span> passionate about building systems that solve real-world problems. 
+            My experience spans <span className="text-accent font-semibold">software development</span>, <span className="text-accent font-semibold">data analytics</span>, and <span className="text-accent font-semibold">machine learning</span>, giving me the ability to both engineer robust applications and extract actionable insights from complex data.
           </p>
           
           <p className="text-lg text-muted-foreground leading-relaxed mb-6">
-            With hands-on experience in building <span className="text-foreground font-medium">full-stack applications</span>, developing <span className="text-foreground font-medium">machine learning models</span>, 
-            and architecting <span className="text-foreground font-medium">scalable backend systems</span>, I thrive on solving complex problems and creating innovative solutions.
+            I enjoy designing <span className="text-foreground font-medium">scalable backend systems</span>, developing <span className="text-foreground font-medium">ML models</span>, 
+            and creating <span className="text-foreground font-medium">interactive visualizations</span> that make data meaningful. 
+            Whether it's optimizing workflows, building intelligent systems, or implementing real-time pipelines, I'm motivated by challenges that let technology drive tangible impact.
           </p>
           
           <p className="text-lg text-muted-foreground leading-relaxed">
-            Whether it's implementing real-time data pipelines, designing interactive visualizations, or building intelligent systems with cutting-edge ML techniques, 
-            I'm driven by the impact technology can have on real-world challenges.
+            I'm currently focused on opportunities in <span className="text-primary font-semibold">SDE</span>, <span className="text-accent font-semibold">Data Analytics/Science</span>, and <span className="text-accent font-semibold">ML/AI engineering</span>, 
+            where I can combine my skills to deliver innovative, high-impact solutions.
           </p>
         </div>
       </div>

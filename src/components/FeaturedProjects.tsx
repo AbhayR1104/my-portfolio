@@ -34,7 +34,7 @@ const FeaturedProjects = () => {
           Featured <span className="text-gradient">Projects</span>
         </h2>
         <p className="text-muted-foreground text-center mb-16 max-w-2xl mx-auto">
-          Highlights from my portfolio showcasing full-stack development, data science, and system design
+          Highlights from my portfolio showcasing my skills.
         </p>
         
         <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-6 mb-12">

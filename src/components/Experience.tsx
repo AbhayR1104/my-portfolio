@@ -8,21 +8,21 @@ const Experience = () => {
       location: "Bengaluru, India",
       period: "Feb 2023 – Dec 2023",
       achievements: [
-        "Analyzed global procurement and inventory data from SAP, achieving 12% improvement in average delivery time across APAC",
-        "Built real-time dashboards using Power BI and Qlik, reducing stockout-related escalations by 30%",
-        "Performed root-cause analysis leading to 15% reduction in inventory holding costs over three quarters",
-        "Streamlined replenishment forecasting for 250+ parts across supply chain operations",
+        "Analyzed global procurement and inventory data from SAP ECC and Qlik to identify system inefficiencies in CPU/HDD shipments, improving regional delivery time by 12%.",
+        "Developed automated supply chain dashboards integrating SAP data into Power BI for real-time visibility, reducing stockout escalations by 30%.",
+        "Performed root-cause analysis on delayed orders and inventory buildup using Python and time-series data, contributing to a 15% reduction in inventory holding costs over three quarters.",
+        "Led the design of data models and KPIs to optimize replenishment forecasting for 250+ parts, improving demand accuracy and operational efficiency.",
       ],
     },
     {
       role: "Software Engineering Intern",
       company: "Tata Elxsi",
       location: "Bengaluru, India",
-      period: "Aug 2022 – Sept 2022",
+      period: "Aug 2022 – Oct 2022",
       achievements: [
-        "Redesigned app architecture using MVVM pattern, cutting screen load time by 30%",
-        "Optimized background tasks with Coroutines and WorkManager, reducing frame drops by 25%",
-        "Built media playback module with ExoPlayer, achieving 40% fewer buffering events",
+        "Redesigned app architecture using MVVM, Repository pattern, Room, and LiveData cutting screen load time by 30% and reducing UI response latency by 150ms.",
+        "Optimized background task execution with Coroutines and WorkManager reduced frame drops by 25% and improved workflow stability across 5+ UI components.",
+        "Built a media playback module using ExoPlayer, MVVM, and HILT achieved smooth streaming with 40% fewer buffering events under weak networks via adaptive bitrate handling.",
       ],
     },
   ];
@@ -34,7 +34,7 @@ const Experience = () => {
           Professional <span className="text-gradient">Experience</span>
         </h2>
         <p className="text-muted-foreground text-center mb-16 max-w-2xl mx-auto">
-          Track record of delivering impactful solutions across data analytics and software engineering
+          Track record of delivering impactful solutions for companies I worked for.
         </p>
         
         <div className="space-y-8">

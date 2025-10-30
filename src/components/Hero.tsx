@@ -20,8 +20,7 @@ const Hero = () => {
         </p>
         
         <p className="text-lg text-muted-foreground mb-12 max-w-2xl mx-auto">
-          Building intelligent systems and data-driven solutions. Passionate about full-stack development, 
-          machine learning, and transforming complex data into actionable insights.
+          I’m passionate about building software and machine learning systems that transform complex data into actionable insights. I aim to leverage technology to solve problems efficiently, make data work smarter, and create measurable impact.
         </p>
         
         <div className="flex flex-wrap gap-4 justify-center mb-12">
